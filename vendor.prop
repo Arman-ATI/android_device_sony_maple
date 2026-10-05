@@ -9,3 +9,6 @@ ro.semc.version.sw=1306-8499
 ro.semc.version.sw_revision=47.2.A.10.107
 ro.semc.version.sw_type=user
 ro.semc.version.sw_variant=GLOBAL-LTE4A
+
+# HDR
+vendor.display.disable_hdr_lut_gen=0
