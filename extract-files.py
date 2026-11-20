@@ -15,7 +15,7 @@ from extract_utils.main import (
 
 namespace_imports = [
     'device/sony/yoshino-common',
-    'hardware/qcom-caf/msm8998',
+    'hardware/qcom-caf/sdm660',
     'vendor/sony/yoshino-common',
 ]
 
